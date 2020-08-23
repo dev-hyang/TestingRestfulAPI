@@ -1,0 +1,6 @@
+{
+    "require": {
+        "behat/behat": "3.7",
+        "guzzlehttp/guzzle": "7.0"
+    }
+}
