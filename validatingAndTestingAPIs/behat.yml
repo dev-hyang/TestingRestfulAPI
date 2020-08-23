@@ -4,4 +4,4 @@ default:
             contexts:
               - FeatureContext:
                     github_username:   elon-hangyang
-                    github_password:   Ada1988ada
+                    github_password:   nottellyou
