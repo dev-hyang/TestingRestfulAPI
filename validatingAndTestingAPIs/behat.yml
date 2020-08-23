@@ -1,7 +1,0 @@
-default:
-    suites:
-        default:
-            contexts:
-              - FeatureContext:
-                    github_username:   elon-hangyang
-                    github_password:   nottellyou
